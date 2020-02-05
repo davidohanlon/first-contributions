@@ -15,6 +15,7 @@
 - Andreas Eibert
 -EdwinVanLeth
 -Mike
+-Hanlon
 - Yeongyoon Park (https://github.com/ypark66)
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
